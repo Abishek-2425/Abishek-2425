@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on/in any projects, I'm out here to connect with people and gain experience
 - 📫 How to reach me : mail ===> abishek642005@gmail.com
 - 😄 Pronouns: He / Him
+- 😄 Undergrad Student
 - ⚡ Fun fact: I like anime, manga, and electric guitars
 - ⚡Also a fun fact : I know Python, C and ChatGPT
 
