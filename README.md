@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abishek-2425
-- 🌱 I’m interested Cybersecurity and Software Development
+- 🌱 I’m interested in Cybersecurity and Software Development
 - 👀 I’m currently looking out on how to improve my professional profile
 - 💞️ I’m looking to collaborate on/in any projects, I'm out here to connect with people and gain experience
 - 📫 How to reach me : mail ===> abishek642005@gmail.com
