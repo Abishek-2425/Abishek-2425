@@ -2,10 +2,6 @@
 Abishek-2425/Abishek-2425 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Here’s your **GitHub Profile README** text, properly formatted for better readability and aesthetics:  
-
----
-
 # **Hi there, I'm Abishek! 👋**  
 🚀 **AI & Data Science Enthusiast | MERN Stack Developer | Cybersecurity Learner**  
 
