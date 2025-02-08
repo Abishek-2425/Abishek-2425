@@ -11,9 +11,8 @@ Here’s your **GitHub Profile README** text, properly formatted for better read
 
 ## **🌟 About Me**  
 🔹 **2nd-year B.Tech student** in **AI & Data Science**  
-🔹 Passionate about **AI, Cybersecurity, Digital Marketing, and Web Development**  
-🔹 Currently working on **AI-driven career guidance & cybersecurity projects**  
-🔹 Actively exploring **Capture The Flag (CTF) challenges, IoT, and Open Source**  
+🔹 Passionate about **AI, Web Development, Cybersecurity, and Digital Marketing**  
+🔹 Currently working on **AI-driven career guidance & cybersecurity projects** 
 🔹 **Beginner guitarist** with a love for **anime, manga, and cool tech** 🎸  
 
 ---
