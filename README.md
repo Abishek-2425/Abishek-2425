@@ -2,8 +2,33 @@
 Abishek-2425/Abishek-2425 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# 💫 About Me:
-👋 Hi, I’m Abishek<br>🌱 I’m interested in Software Development and Cybersecurity<br>👀 I’m currently looking out to collaborate with people and gain experience and domain knowledge<br>💞️ I’m looking to collaborate on/in any projects, I'm out here to connect with people and gain experience<br>📫 Reach me at => abishek642005@gmail.com<br>😄 Pronouns: He / Him<br>😄 Undergrad Student<br>⚡ Fun fact: I like anime, manga, and electric guitars and cool tech<br>🎸 Beginner guitarist with a passion for AI.<br><br>Hi there, I'm Abishek! 👋<br>🚀 AI & Data Science Enthusiast | MERN Stack Developer | Cybersecurity Learner<br><br>🌟 About Me<br>🔹 2nd-year B.Tech student in AI & Data Science<br>🔹 Passionate about AI, Cybersecurity, Digital Marketing, and Web Development<br>🔹 Currently building AI-driven career guidance systems & cybersecurity projects<br>🔹 Love exploring CTFs, IoT, and Open Source<br><br><br>🛠 Tech Stack & Skills<br>💻 Programming: Python, JavaScript, SQL<br>🌐 Web Dev: MERN Stack (MongoDB, Express.js, React.js, Node.js)<br>🛢 Databases: MongoDB Atlas, MySQL<br>📊 AI & Data: Machine Learning, Data Analysis<br>🛡 Cybersecurity: Ethical Hacking, Kali Linux<br>🎨 Design: Figma, Canva<br><br>
+Hi there, I'm Abishek! 👋
+🚀 AI & Data Science Enthusiast | MERN Stack Developer | Cybersecurity Learner
+
+🌟 About Me
+🔹 2nd-year B.Tech student in AI & Data Science
+🔹 Passionate about AI, Cybersecurity, Digital Marketing, and Web Development
+🔹 Currently working on AI-driven career guidance & cybersecurity projects
+🔹 Actively exploring Capture The Flag (CTF) challenges, IoT, and Open Source
+🔹 Beginner guitarist with a love for anime, manga, and cool tech 🎸
+
+🛠 Tech Stack & Skills
+💻 Programming: Python, JavaScript, SQL
+🌐 Web Development: MERN Stack (MongoDB, Express.js, React.js, Node.js)
+🛢 Databases: MongoDB Atlas, MySQL
+📊 AI & Data Science: Machine Learning, Data Analysis
+🛡 Cybersecurity: Ethical Hacking, Kali Linux, CTF Challenges
+🎨 Design & Creativity: Figma, Canva
+
+🚀 Let's Collaborate!
+💡 I’m always looking to connect, collaborate, and gain hands-on experience in AI, cybersecurity, and web development.
+🎯 Open to new projects, hackathons, and learning opportunities.
+💞 If you have an exciting idea, let’s build something awesome together!
+
+📫 Reach Me At:
+📧 Email: abishek642005@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/abishek-s-1b68042a3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIN9Et8BjR5aTeRY2Qoa30Q%3D%3D
+🐦 Twitter: twitter.com/your-handle
 
 
 ## 🌐 Socials:
