@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
 🔹 Currently working on **AI-driven career guidance & cybersecurity projects** 
 🔹 **Beginner guitarist** with a love for **anime, manga, and cool tech 🎸**  
 
+
 <!---
 
 ## **🛠 Tech Stack & Skills**  
