@@ -11,26 +11,11 @@ You can click the Preview link to take a look at your changes.
 🔹 Currently working on **AI-driven career guidance & cybersecurity projects**
 🔹 **Beginner guitarist** with a love for **anime, manga, and cool tech** 🎸
 
-
-<!---
-
-## **🛠 Tech Stack & Skills**  
-💻 **Programming:** Python, JavaScript, SQL  
-🌐 **Web Development:** MERN Stack (MongoDB, Express.js, React.js, Node.js)  
-🛢 **Databases:** MongoDB Atlas, MySQL  
-📊 **AI & Data Science:** Machine Learning, Data Analysis  
-🛡 **Cybersecurity:** Ethical Hacking, Kali Linux, CTF Challenges  
-🎨 **Design & Creativity:** Figma, Canva  
-
---->
-
-
 ## **🚀 Let's Collaborate!**  
 💡 I’m always looking to **connect, collaborate, and gain hands-on experience** in AI, cybersecurity, and web development.  
 🎯 Open to **new projects, hackathons, and learning opportunities.**  
 💞 If you have an exciting idea, let’s build something awesome together!  
 
----
 
 ## **📫 Reach Me At My Socials**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abishek-s-1b68042a3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abishek642005@gmail.com) 
