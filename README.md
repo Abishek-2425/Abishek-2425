@@ -6,10 +6,9 @@ You can click the Preview link to take a look at your changes.
 
 🚀 **AI & Data Science | MERN | Cybersecurity (Learning)**
 
-🎓 3rd-year B.Tech student (AI & Data Science)
+🎓 B.Tech Undergrad student (AI & Data Science)
 💻 Into **AI, Web/App Dev, Cybersecurity & Digital Marketing**
 🛠️ Building **AI-driven career guidance & security projects**
-🎸 Beginner guitarist | Anime & tech enjoyer
 
 ### 🤝 Let’s Collaborate
 
