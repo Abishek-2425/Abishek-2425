@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Hi, I’m **Abishek** 👋
 
-🚀 **AI & Data Science | MERN | Cybersecurity (Learning)**
+🚀 **AI & Data Science | Fullstack Developer | Cybersecurity (Learning)**
 
 🎓 B.Tech Undergrad student (AI & Data Science)
 💻 Into **AI, Web/App Dev, Cybersecurity & Digital Marketing**
